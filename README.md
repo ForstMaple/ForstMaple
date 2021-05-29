@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 📈 I am an active stock investor in 🇨🇳 & 🇭🇰 markets and post my opinions regularly on my blog [Maple's Space](https://maplefeng.space).
 
 ### My Toolkit
-![Python][shield_python] ![R][shield_R] ![MySQL][shield_mysql] ![Jupyter][[shield_Jupyter] ![Git][shield_git]
+![Python][shield_python] ![R][shield_R] ![MySQL][shield_mysql] ![Jupyter][shield_Jupyter] ![Git][shield_git]
 ![VSCode][shield_vs-code] ![Vim][shield_vim] ![StackOverFlow][shield_StackOverFlow]
 
 ### Contact Me
@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 
 <!-- Shield Links -->
-[shield_git]: http://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=ffffff
+[shield_git]: https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white
 [shield_mysql]: https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white
-[shield_python]: https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=ffffff
+[shield_python]: https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white
 [shield_vs-code]: https://badges.aleen42.com/src/visual_studio_code.svg
 [shield_R]: https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white
 [shield_markdown]: https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white
