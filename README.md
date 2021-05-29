@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=ForstMaple&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_border=true&include_all_commits=true" width="480px">
 
-- 🏫 I'm a graduate student to matriculate at [**National University Singapore 🇸🇬**](https://nus.edu.sg) in July, 2021.
+- 🏫 I'm a graduate student to matriculate at [**National University Singapore**](https://nus.edu.sg)🇸🇬 in July, 2021.
 - 🤯 I'm endeavoring to step into the field of data science, machine learning, etc.
 - 🎓 I was an accounting student at [**Xiamen University**](https://www.xmu.edu.cn), familiar with both Chinese Accounting Standards and IFRS.
 - 📈 I am an active stock investor in 🇨🇳 & 🇭🇰 markets and post my opinions regularly on my blog [Maple's Space](https://maplefeng.space).
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 [shield_git]: https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white
 [shield_mysql]: https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white
 [shield_python]: https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white
-[shield_vs-code]: https://badges.aleen42.com/src/visual_studio_code.svg
+[shield_vs-code]: https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white
 [shield_R]: https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white
 [shield_markdown]: https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white
 [shield_Gmail]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
