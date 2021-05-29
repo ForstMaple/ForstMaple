@@ -14,13 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=ForstMaple&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_border=true&include_all_commits=true" width="480px">
 
 ### 🍁️ About me
-- 🏫 I'm a graduate student to matriculate at [**National University Singapore**](https://nus.edu.sg)🇸🇬 in July, 2021.
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=ForstMaple&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_border=true&count_private=true" width="480px">
+
+- 🏫 I'm a graduate student to matriculate at [**National University Singapore**](https://nus.edu.sg) 🇸🇬 in July, 2021.
 - 🤯 I'm endeavoring to step into the field of data science, machine learning, etc.
 - 🎓 I was an accounting student at [**Xiamen University**](https://www.xmu.edu.cn), familiar with both Chinese Accounting Standards and IFRS.
-- 📈 I am an active stock investor in 🇨🇳 & 🇭🇰 markets and post my opinions regularly on my blog [Maple's Space](https://maplefeng.space).
+- 📈 I am an active stock investor in 🇨🇳 & 🇭🇰 markets and post my opinions regularly on my blog [**Maple's Space**](https://maplefeng.space).
 
 ### 🛠️ My Toolkit
 ![Python][shield_python] ![R][shield_R] ![MySQL][shield_mysql] ![Jupyter][shield_Jupyter] ![Git][shield_git]
