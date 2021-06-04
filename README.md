@@ -25,8 +25,11 @@ Here are some ideas to get you started:
 - 📈 I am an active stock investor in 🇨🇳 & 🇭🇰 markets and post my opinions regularly on my blog [**Maple's Space**](https://maplefeng.space).
 
 ### 🛠️ My Toolkit
-![Python][shield_python] ![R][shield_R] ![MySQL][shield_mysql] ![Jupyter][shield_Jupyter] ![Git][shield_git]
+![Python][shield_Python] ![R][shield_R] ![MySQL][shield_MySQL] ![Jupyter][shield_Jupyter] ![Git][shield_git]
 ![VSCode][shield_vs-code] ![Vim][shield_vim] ![StackOverFlow][shield_StackOverFlow]
+
+### 📖 Learning Plan
+![JavaScript][shield_JavaScript] ![Golang][shield_Golang]
 
 ### 📮️ Contact Me
 [![Gmail][shield_Gmail]](mailto:ForstMaple@gmail.com)
@@ -35,8 +38,8 @@ Here are some ideas to get you started:
 
 <!-- Shield Links -->
 [shield_git]: https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white
-[shield_mysql]: https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white
-[shield_python]: https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white
+[shield_MySQL]: https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white
+[shield_Python]: https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white
 [shield_vs-code]: https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white
 [shield_R]: https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white
 [shield_markdown]: https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white
@@ -47,3 +50,5 @@ Here are some ideas to get you started:
 [shield_pandas]: https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white
 [shield_numpy]: https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white
 [shield_Jupyter]: https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white
+[shield_JavaScript]: https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E
+[Shield_Golang]: https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white
