@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - 📈 I am an active stock investor in 🇨🇳 & 🇭🇰 markets and post my opinions regularly on my blog [**Maple's Space**](https://maplefeng.space).
 
 ### 🛠️ My Toolkit
-![Python][shield_Python] ![R][shield_R] ![MySQL][shield_MySQL] ![Jupyter][shield_Jupyter] ![Git][shield_git]
+![Python][shield_Python] ![R][shield_R] ![Cpp][shield_Cpp] ![MySQL][shield_MySQL] ![Jupyter][shield_Jupyter] ![Git][shield_git]
 ![VSCode][shield_vs-code] ![Vim][shield_vim] ![StackOverFlow][shield_StackOverFlow]
 
 ### 📖 Learning Plan
@@ -51,4 +51,5 @@ Here are some ideas to get you started:
 [shield_numpy]: https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white
 [shield_Jupyter]: https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white
 [shield_JavaScript]: https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E
-[Shield_Golang]: https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white
+[shield_Golang]: https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white
+[shield_Cpp]: https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white
