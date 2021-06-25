@@ -28,8 +28,11 @@ Here are some ideas to get you started:
 ![Python][shield_Python] ![R][shield_R] ![Cpp][shield_Cpp] ![MySQL][shield_MySQL] ![Jupyter][shield_Jupyter] ![Git][shield_git]
 ![VSCode][shield_vs-code] ![Vim][shield_vim] ![StackOverFlow][shield_StackOverFlow]
 
-### 📖 Learning Plan
-![JavaScript][shield_JavaScript] ![Golang][shield_Golang]
+### 😫 Currently Learning
+![Java][shield_Java] ![Julia][shield_Julia]
+
+### 📖 Planning to Learn
+![TypeScript][shield_TypeScript] ![Golang][shield_Golang]
 
 ### 📮️ Contact Me
 [![Gmail][shield_Gmail]](mailto:ForstMaple@gmail.com)
@@ -50,6 +53,8 @@ Here are some ideas to get you started:
 [shield_pandas]: https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white
 [shield_numpy]: https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white
 [shield_Jupyter]: https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white
-[shield_JavaScript]: https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E
+[shield_TypeScript]: https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white
 [shield_Golang]: https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white
 [shield_Cpp]: https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white
+[shield_Java]: https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white
+[shield_Julia]:https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white
