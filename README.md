@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - 📈 I am an active stock investor in 🇨🇳 & 🇭🇰 markets and post my opinions regularly on my blog [**Maple's Space**](https://maplefeng.space).
 
 ### 🛠️ My Toolkit
-![Python][shield_Python] ![R][shield_R] ![Cpp][shield_Cpp] ![MySQL][shield_MySQL] ![Jupyter][shield_Jupyter] ![Git][shield_git]
+![Python][shield_Python] ![R][shield_R] ![MySQL][shield_MySQL] ![Jupyter][shield_Jupyter] ![Git][shield_git]
 ![VSCode][shield_vs-code] ![Vim][shield_vim] ![StackOverFlow][shield_StackOverFlow]
 
 ### 😫 Currently Learning
