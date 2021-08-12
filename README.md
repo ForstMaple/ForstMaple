@@ -29,10 +29,10 @@ Here are some ideas to get you started:
 ![VSCode][shield_vs-code] ![Vim][shield_vim] ![StackOverFlow][shield_StackOverFlow]
 
 ### 😫 Currently Learning
-![Java][shield_Java] ![Julia][shield_Julia]
+![Golang][shield_Golang] ![Java][shield_Java] ![Julia][shield_Julia]
 
 ### 📖 Planning to Learn
-![TypeScript][shield_TypeScript] ![Golang][shield_Golang]
+![TypeScript][shield_TypeScript] ![CPP][shield_Cpp]
 
 ### 📮️ Contact Me
 [![Gmail][shield_Gmail]](mailto:ForstMaple@gmail.com)
