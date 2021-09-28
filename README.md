@@ -25,14 +25,14 @@ Here are some ideas to get you started:
 - 📈 I am an active stock investor in 🇨🇳 & 🇭🇰 markets and post my opinions regularly on my blog [**Maple's Space**](https://maplefeng.space).
 
 ### 🛠️ My Toolkit
-![Python][shield_Python] ![R][shield_R] ![MySQL][shield_MySQL] ![Jupyter][shield_Jupyter] ![Git][shield_git]
-![VSCode][shield_vs-code] ![Vim][shield_vim] ![StackOverFlow][shield_StackOverFlow]
+![Python][shield_Python] ![R][shield_R] ![Octave][shield_Octave] ![MySQL][shield_MySQL] ![Jupyter][shield_Jupyter] ![Git][shield_git]
+![VSCode][shield_vs-code] ![Vim][shield_vim] ![AWS][shield_AWS] ![MarkDown][shield_markdown] ![StackOverFlow][shield_StackOverFlow] 
 
 ### 😫 Currently Learning
-![Golang][shield_Golang] ![Java][shield_Java] ![Julia][shield_Julia]
+![Golang][shield_Golang] ![Scala][shield_Scala] ![Docker][shield_Docker]
 
 ### 📖 Planning to Learn
-![TypeScript][shield_TypeScript] ![CPP][shield_Cpp]
+![TypeScript][shield_TypeScript] ![CPP][shield_Cpp] ![Julia][shield_Julia] ![Kubernetes][shield_Kubernetes]
 
 ### 📮️ Contact Me
 [![Gmail][shield_Gmail]](mailto:ForstMaple@gmail.com)
@@ -57,4 +57,9 @@ Here are some ideas to get you started:
 [shield_Golang]: https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white
 [shield_Cpp]: https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white
 [shield_Java]: https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white
-[shield_Julia]:https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white
+[shield_Julia]: https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white
+[shield_Scala]: https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white
+[shield_Octave]: https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683
+[shield_AWS]: https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white
+[shield_Docker]: https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white
+[shield_Kubernetes]: https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white
