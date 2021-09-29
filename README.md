@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 🏫 I'm a graduate student at [**National University Singapore**](https://nus.edu.sg) 🇸🇬.
 - 🤯 I'm endeavoring to step into the field of data science, machine learning, etc.
 - 🎓 I was an accounting student at [**Xiamen University**](https://www.xmu.edu.cn), familiar with both Chinese Accounting Standards and IFRS.
-- 📈 I am an active stock investor in 🇨🇳 & 🇭🇰 markets and post my opinions regularly on my blog [**Maple's Space**](https://maplefeng.space).
+- 📈 I am an active stock investor in 🇨🇳 & 🇭🇰 markets.
 
 ### 🛠️ My Toolkit
 ![Python][shield_Python] ![R][shield_R] ![Octave][shield_Octave] ![MySQL][shield_MySQL] ![Jupyter][shield_Jupyter] ![Git][shield_git]
