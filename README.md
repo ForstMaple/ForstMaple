@@ -27,12 +27,13 @@ Here are some ideas to get you started:
 ### 🛠️ My Toolkit
 ![Python][shield_Python] ![R][shield_R] ![Octave][shield_Octave] ![MySQL][shield_MySQL] ![Jupyter][shield_Jupyter] ![Git][shield_git]
 ![VSCode][shield_vs-code] ![Vim][shield_vim] ![AWS][shield_AWS] ![MarkDown][shield_markdown] ![StackOverFlow][shield_StackOverFlow] 
+![Golang][shield_Golang]
 
 ### 😫 Currently Learning
-![Golang][shield_Golang] ![Scala][shield_Scala] ![Docker][shield_Docker]
-
+![Docker][shield_Docker]
+ 
 ### 📖 Planning to Learn
-![TypeScript][shield_TypeScript] ![CPP][shield_Cpp] ![Julia][shield_Julia] ![Kubernetes][shield_Kubernetes]
+![TypeScript][shield_TypeScript] ![CPP][shield_Cpp] ![Kubernetes][shield_Kubernetes] ![Scala][shield_Scala]
 
 ### 📮️ Contact Me
 [![Gmail][shield_Gmail]](mailto:ForstMaple@gmail.com)
