@@ -19,25 +19,22 @@ Here are some ideas to get you started:
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=ForstMaple&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_border=true&count_private=true" width="480px">
 
-- 🏫 I'm a graduate student at [**National University Singapore**](https://nus.edu.sg) 🇸🇬.
-- 🤯 I'm endeavoring to step into the field of data science, machine learning, etc.
+- 👨‍💻 I now work for [**Shift Technology**](https://www.shift-technology.com/) as a Data Solution Engineer in 🇸🇬.
 - 🎓 I was an accounting student at [**Xiamen University**](https://www.xmu.edu.cn), familiar with both Chinese Accounting Standards and IFRS.
-- 📈 I am an active stock investor in 🇨🇳 & 🇭🇰 markets.
+- 📈 I am an active stock investor in 🇭🇰 & 🇺🇸 markets.
 
 ### 🛠️ My Toolkit
-![Python][shield_Python] ![R][shield_R] ![Octave][shield_Octave] ![MySQL][shield_MySQL] ![Jupyter][shield_Jupyter] ![Git][shield_git]
-![VSCode][shield_vs-code] ![Vim][shield_vim] ![AWS][shield_AWS] ![MarkDown][shield_markdown] ![StackOverFlow][shield_StackOverFlow] 
-![Golang][shield_Golang]
+![Python][shield_Python] ![Csharp][shield_Csharp] ![Jupyter][shield_Jupyter] ![Git][shield_git] ![MicrosoftSQLServer][shield_MicrosoftSQLServer]
+![Rider][shield_rider] ![VSCode][shield_vs-code] ![Vim][shield_vim] ![MarkDown][shield_markdown] ![StackOverFlow][shield_StackOverFlow] 
 
 ### 😫 Currently Learning
-![Docker][shield_Docker]
+![.NET][shield_.NET]
  
 ### 📖 Planning to Learn
-![TypeScript][shield_TypeScript] ![CPP][shield_Cpp] ![Kubernetes][shield_Kubernetes] ![Scala][shield_Scala]
+![TypeScript][shield_TypeScript] ![Kubernetes][shield_Kubernetes]
 
 ### 📮️ Contact Me
 [![Gmail][shield_Gmail]](mailto:ForstMaple@gmail.com)
-
 
 
 <!-- Shield Links -->
@@ -64,3 +61,8 @@ Here are some ideas to get you started:
 [shield_AWS]: https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white
 [shield_Docker]: https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white
 [shield_Kubernetes]: https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white
+[shield_MicrosoftSQLServer]: https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white
+[shield_.NET]: https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white
+[shield_Csharp]: https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white
+[shield_rider]: https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson
+
